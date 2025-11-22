@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "puppeteer": "^24.30.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.2",
+    "xlsx": "^0.18.5"
+  }
+}
