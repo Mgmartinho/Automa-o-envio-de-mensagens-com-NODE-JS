@@ -1,0 +1,6 @@
+2025/12/03-11:38:40.535 1568 Creating DB C:\Users\TELEMATICA\Desktop\REPOS\Automa-o-envio-de-mensagens-com-NODE-JS\.wwebjs_auth\session-automacao-node\Default\Local Storage\leveldb since it was missing.
+2025/12/03-11:38:40.565 1568 Reusing MANIFEST C:\Users\TELEMATICA\Desktop\REPOS\Automa-o-envio-de-mensagens-com-NODE-JS\.wwebjs_auth\session-automacao-node\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/03-11:38:40.569 1568 Recovering log #19
+2025/12/03-11:38:40.572 1568 Reusing old log C:\Users\TELEMATICA\Desktop\REPOS\Automa-o-envio-de-mensagens-com-NODE-JS\.wwebjs_auth\session-automacao-node\Default\Local Storage\leveldb/000019.log 
+2025/12/03-11:38:40.578 1568 Delete type=2 #3
+2025/12/03-11:38:40.578 1568 Delete type=2 #20
