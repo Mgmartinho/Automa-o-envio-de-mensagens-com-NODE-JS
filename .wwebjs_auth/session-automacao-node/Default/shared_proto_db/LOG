@@ -1,3 +1,6 @@
-2025/12/03-11:39:18.035 3590 Reusing MANIFEST C:\Users\TELEMATICA\Desktop\REPOS\Automa-o-envio-de-mensagens-com-NODE-JS\.wwebjs_auth\session-automacao-node\Default\shared_proto_db/MANIFEST-000001
-2025/12/03-11:39:18.036 3590 Recovering log #4
-2025/12/03-11:39:18.037 3590 Reusing old log C:\Users\TELEMATICA\Desktop\REPOS\Automa-o-envio-de-mensagens-com-NODE-JS\.wwebjs_auth\session-automacao-node\Default\shared_proto_db/000004.log 
+2025/12/08-15:29:22.673 4410 Reusing MANIFEST C:\Users\TELEMATICA\Desktop\REPOS\Automa-o-envio-de-mensagens-com-NODE-JS\.wwebjs_auth\session-automacao-node\Default\shared_proto_db/MANIFEST-000001
+2025/12/08-15:29:22.678 4410 Recovering log #4
+2025/12/08-15:29:22.680 4410 Reusing old log C:\Users\TELEMATICA\Desktop\REPOS\Automa-o-envio-de-mensagens-com-NODE-JS\.wwebjs_auth\session-automacao-node\Default\shared_proto_db/000004.log 
+2025/12/08-15:29:35.101 4988 Level-0 table #6: started
+2025/12/08-15:29:35.108 4988 Level-0 table #6: 124958 bytes OK
+2025/12/08-15:29:35.114 4988 Delete type=0 #4
